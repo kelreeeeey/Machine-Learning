@@ -1,4 +1,4 @@
-hotel_cluster,name,location,rating,price,lat,lon,image,review
+hotelId,name,location,rating,price,lat,lon,image,review
 1,Orchard Hotel Singapore,Orchard,4.6,8.377.711,1.307546,103.828418,"https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/10023020-1340x1354-FIT_AND_TRIM-0fd9315000632d2bce3ac1c541d6c111.jpeg?tr=q-40,w-740,h-465&_src=imagekit",6.1
 2,Sheraton Tower Singapore,Orchard,5,5.939.033,1.3117173,103.836395,https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7Z4u0jjEFWz8dkKav4/4eX7q3Dh/1Xv/NOt79sh0ss6MiQBKDWNCwXfjv1U99f60cTYv/Huq53X5jLta2Sch6DAwOonl58Fy1rEYn7dTKtYkQ==,7.6
 3,M Social Singapore,Clarke Quay,5,6.257.284,1.2906982,103.837352,"https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/10023196-1728x1354-FIT_AND_TRIM-0a05e13622592e4fc9252f6aa5d57943.jpeg?tr=q-40,w-740,h-465&_src=imagekit",7.3
