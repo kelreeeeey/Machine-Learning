@@ -18,8 +18,7 @@ Our model tends to recommend hotels that match users’ behavior using rangking 
 - [Json](https://www.json.org/json-en.html)
 
 # The Flow
-![Flow Chart ML - Bangkit Capstone Project](https://user-images.githubusercontent.com/88223451/173829692-e6291cd7-3626-44f5-bcc5-fa6398da5a99.png)
-
+![Flow Chart ML - Bangkit Capstone Project](https://user-images.githubusercontent.com/88223451/173831977-933ca50f-6b5d-4fa3-8c89-e2e7387e7f09.png)
 
 # ML Team
 |            Member           | Student ID |        Path        |                    Role                    |                                                       Contacts                                                             |
