@@ -1,18 +1,18 @@
 # Hotel Rangking Project - Traveloka 
-## Bangkit Capstone Project - Company Based
+Bangkit Capstone Project - Company Based
 
 # About The Project
 Our mmodel tends to recommend hotels that match users’ behavior.
 
 # Buildt With
-Numpy 
-Scipy
-Sklearn
-Pytorch
-Tensorflow
-Pandas
-Matplotlib
-Json
+- [Numpy](https://numpy.org/doc/stable/)
+- [Scipy](https://docs.scipy.org/doc/scipy/)
+- [Sklearn](https://scikit-learn.org/stable/)
+- [Pytorch](https://pytorch.org/docs/stable/index.html)
+- [Tensorflow](https://www.tensorflow.org/)
+- [Pandas](https://pandas.pydata.org/docs/)
+- [Matplotlib](https://matplotlib.org/stable/index.html)
+- [Json](https://www.json.org/json-en.html)
 
 # ML Team
 - [Joni Bastian](https://github.com/jobas5)
