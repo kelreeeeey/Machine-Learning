@@ -5,7 +5,7 @@
 Our mmodel tends to recommend hotels that match users’ behavior.
 
 # Buildt With
-Numpy \n
+Numpy 
 Scipy
 Sklearn
 Pytorch
@@ -15,4 +15,7 @@ Matplotlib
 Json
 
 # ML Team
-- [Profile](https://github.com/rachimvdr "Rachim")
+- [Joni Bastian](https://github.com/jobas5)
+- [Muhammad Rachim Vadrian](https://github.com/rachimvdr "Rachim")
+- [Risala Nabila Imani](https://github.com/risalanaim)
+- [Taufiqurrahman Sagaf Kelrey](https://github.com/kelreeeeey)
