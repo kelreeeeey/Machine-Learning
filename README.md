@@ -31,3 +31,5 @@ Our model tends to recommend hotels that match users’ behavior using rangking 
 # Reference
 - [Learning to rank: A primer, by Samuel Flender](https://towardsdatascience.com/learning-to-rank-a-primer-40d2ff9960af)
 - [Learning to Rank Hotels, by Alec Hon, Alex Dong, Eric He, & Jesse Swanson](https://drive.google.com/file/d/1jE4emsv6iR1_hhR5G1IyqeJ3cbd-pSuz/view)
+- [Recommendation System Expedia, by GitHub:namkungchew](https://github.com/namkungchew/Recommendation-System-Expedia/blob/main/code/Part%203%20-%20Appendix%20-%20TensorFlow%20Recommendation%20System.ipynb)
+- [Recommendation Movie: Retrieval, by TensorFlow Guide](https://www.tensorflow.org/recommenders/examples/basic_retrieval)
