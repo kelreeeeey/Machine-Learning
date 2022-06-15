@@ -5,7 +5,7 @@
 Our mmodel tends to recommend hotels that match users’ behavior.
 
 # Buildt With
-Numpy
+Numpy \n
 Scipy
 Sklearn
 Pytorch
