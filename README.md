@@ -13,13 +13,13 @@ Our model tends to recommend hotels that match users’ behavior using rangking 
 
 # Dependencies
 - [Numpy](https://numpy.org/doc/stable/)
-- [Scipy](https://docs.scipy.org/doc/scipy/)
-- [Sklearn](https://scikit-learn.org/stable/)
-- [Pytorch](https://pytorch.org/docs/stable/index.html)
 - [Tensorflow](https://www.tensorflow.org/)
 - [Pandas](https://pandas.pydata.org/docs/)
-- [Matplotlib](https://matplotlib.org/stable/index.html)
 - [Json](https://www.json.org/json-en.html)
+
+# The Flow
+![Flow Chart ML - Bangkit Capstone Project](https://user-images.githubusercontent.com/88223451/173829692-e6291cd7-3626-44f5-bcc5-fa6398da5a99.png)
+
 
 # ML Team
 |            Member           | Student ID |        Path        |                    Role                    |                                                       Contacts                                                             |
@@ -28,3 +28,7 @@ Our model tends to recommend hotels that match users’ behavior using rangking 
 |   Muhammad Rachim Vadrian   | M2299F2583 |  Machine Learning  |          Machine Learning Engineer         |               [LinkedIn](https://www.linkedin.com/in/rachimvdr/) or [Github](https://github.com/rachimvdr)                 |
 |     Risala Nabila Imani     | M2008F0844 |  Machine Learning  |          Machine Learning Engineer         |         [LinkedIn](https://www.linkedin.com/in/risalanabilaimani/) or [Github](https://github.com/risalanaim)              |
 | Taufiqurrahman Sagaf Kelrey | M2008F0807 |  Machine Learning  |          Machine Learning Engineer         |    [LinkedIn](https://www.linkedin.com/in/taufiqurrahman-kelrey-907545152/) or [Github](https://github.com/kelreeeeey)     |
+
+# Reference
+- [Learning to rank: A primer, by Samuel Flender](https://towardsdatascience.com/learning-to-rank-a-primer-40d2ff9960af)
+- [Learning to Rank Hotels, by Alec Hon, Alex Dong, Eric He, & Jesse Swanson](https://drive.google.com/file/d/1jE4emsv6iR1_hhR5G1IyqeJ3cbd-pSuz/view)
