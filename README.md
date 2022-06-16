@@ -1,8 +1,5 @@
-# Hotel Rangking Project - Traveloka 
+# Machine Learning 
 The source code of machine learning model's API of Traveloka Hotel Rangking in order to complete Bangkit Capstone Project
-
-# About The Project
-Our model tends to recommend hotels that match users’ behavior using retrieval and rangking algorithm 
 
 # Dataset Resource
 - [Expedia Hotel Recommendations | Kaggle](https://www.kaggle.com/competitions/expedia-hotel-recommendations/data)
