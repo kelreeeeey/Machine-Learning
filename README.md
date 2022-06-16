@@ -16,6 +16,7 @@ Our model tends to recommend hotels that match users’ behavior using retrieval
 - [Tensorflow](https://www.tensorflow.org/)
 - [Pandas](https://pandas.pydata.org/docs/)
 - [Json](https://www.json.org/json-en.html)
+- [Vertex AI](https://cloud.google.com/vertex-ai)
 
 # The Flow
 ![Flow Chart ML - Bangkit Capstone Project](https://user-images.githubusercontent.com/88223451/173831977-933ca50f-6b5d-4fa3-8c89-e2e7387e7f09.png)
